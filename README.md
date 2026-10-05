@@ -59,7 +59,7 @@ There are no sessions during Thanksgiving week (Nov 23–25). The team is still 
 
 ### Naming your submission
 
-Name every notebook **`netid_weeknumber.ipynb`**, in lowercase with no spaces. For example, NetID `ab1234` submits Week 1 as `ab1234_week_1.ipynb`.
+Name every notebook **`netid_week_number.ipynb`**, in lowercase with no spaces. For example, NetID `ab1234` submits Week 1 as `ab1234_week_1.ipynb`.
 
 Make the first cell a Markdown cell with your details:
 
